@@ -8,7 +8,7 @@
 
 	 <properties>
         <!-- hibernate版本号 -->
-        <hibernate.version>5.1.5.Final</hibernate.version>
+        <hibernate.version>5.4.24.Final</hibernate.version>
     </properties>
   <dependencies>
         <dependency>
